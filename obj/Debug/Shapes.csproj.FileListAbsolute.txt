@@ -1,0 +1,7 @@
+E:\C#\Shapes\bin\Debug\Shapes.exe.config
+E:\C#\Shapes\bin\Debug\Shapes.exe
+E:\C#\Shapes\bin\Debug\Shapes.pdb
+E:\C#\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+E:\C#\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+E:\C#\Shapes\obj\Debug\Shapes.exe
+E:\C#\Shapes\obj\Debug\Shapes.pdb
