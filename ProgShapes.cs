@@ -22,16 +22,14 @@ namespace Shapes
             var width = double.Parse(Console.ReadLine());
             Rectangle rect = new Rectangle(height, width);
 
-            // draw shapes
+            // Circle
             circle.Draw();
-            rect.Draw();
-
-            //Calculate Perimeter
             Console.WriteLine($"Circle perimeter: {circle.CalculatePerimeter()}");
-            Console.WriteLine($"Rectangle perimeter:{rect.CalculatePerimeter()}");
-
-            //Calculate Area
             Console.WriteLine($"Circle area: {circle.CalculateArea()}");
+
+            // Rectangle
+            rect.Draw();
+            Console.WriteLine($"Rectangle perimeter:{rect.CalculatePerimeter()}"); 
             Console.WriteLine($"Rectangle area: {rect.CalculateArea()}");
 
             Console.ReadKey();
